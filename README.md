@@ -34,7 +34,7 @@ The app will run at [http://localhost:3000](http://localhost:3000).
 Create a `.env` file in the root directory:
 ```
 PORT=3001
-REACT_APP_API_URL=https://lecture-progress-backend.onrender.com
+REACT_APP_API_URL=http://localhost:3000/api/progress
 ```
 
 ## Project Structure
